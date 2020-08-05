@@ -7,8 +7,8 @@ Golang的cgo模块可以直接调用C的程序，但是调用C++的部分会有�
 ## 调用方法
 
 ```bash
-git clone git@github.com:CJSHP/Golang_Call_Cpp.git
-cd Golang_Call_Cpp
+git clone git@github.com:CJSHP/Go_Call_Cpp.git
+cd src/Go_Call_Cpp
 ./build.sh
 ```
 
